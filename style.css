@@ -1,0 +1,18 @@
+.logo {
+	position: absolute;
+	left: auto;
+	top: -1px;
+	right: auto;
+	bottom: auto;
+}
+.broi-pic {
+	text-align: right;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.adreader {
+	font: normal 11px Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
